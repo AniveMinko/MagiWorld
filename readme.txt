@@ -1,0 +1,1 @@
+ MagiWorld est un jeu de combat épique entre Guerrier (pirate) , Rôdeur (ninja) et Mage (magicien) qui fonctionne dans le terminal  uniquement
